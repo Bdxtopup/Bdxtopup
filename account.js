@@ -1,10 +1,10 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (BDXTOPUP)
 // =======================================================
 var website_name = "BDX TOPUP";
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// https://t.me/tamim_editz077
 // =======================================================
 var telegram_channel_link = "https://t.me/tamim_editz077";
 
@@ -14,7 +14,7 @@ var telegram_channel_link = "https://t.me/tamim_editz077";
 var telegram_group_link = "https://t.me/tamimediz";
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// https://www.youtube.com/@bdxtopup1
 // =======================================================
 var youtube_channel_link = "https://www.youtube.com/@bdxtopup1";
 
